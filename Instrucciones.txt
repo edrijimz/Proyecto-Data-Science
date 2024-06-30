@@ -1,0 +1,8 @@
+Prerrequisitos
+Antes de comenzar, asegúrate de tener las siguientes librerías instaladas en tu entorno de Python:
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
